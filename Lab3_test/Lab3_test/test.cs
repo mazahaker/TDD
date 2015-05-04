@@ -32,5 +32,12 @@ namespace Lab3_test
             Clock watch = new Clock();
             Assert.IsNotNull(watch.hours);
         }
+
+        [TestMethod]
+        public void Test_Create_Seconds()
+        {
+            Clock watch = new Clock();
+            Assert.IsNotNull(watch.hours);
+        }
     }
 }
