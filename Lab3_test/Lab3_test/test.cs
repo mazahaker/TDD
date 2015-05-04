@@ -44,8 +44,14 @@ namespace Lab3_test
         public void Test_Eual_Minutes()
         {
             Clock watch = new Clock();
-            watch.timer();
             Assert.IsTrue(watch.minutes == DateTime.Now.Minute);
+        }
+
+        [TestMethod]
+        public void Test_Eual_Hours()
+        {
+            Clock watch = new Clock();
+            Assert.IsTrue(watch.hours == DateTime.Now.Hour);
         }
     }
 }
