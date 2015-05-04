@@ -1,0 +1,14 @@
+C:\Users\Artem\Desktop\Lab3_test\Lab3_test\bin\Debug\Lab3_test.exe.config
+C:\Users\Artem\Desktop\Lab3_test\Lab3_test\bin\Debug\Lab3_test.exe
+C:\Users\Artem\Desktop\Lab3_test\Lab3_test\bin\Debug\Lab3_test.pdb
+C:\Users\Artem\Desktop\Lab3_test\Lab3_test\obj\Debug\Lab3_test.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Desktop\Lab3_test\Lab3_test\obj\Debug\Lab3_test.exe
+C:\Users\Artem\Desktop\Lab3_test\Lab3_test\obj\Debug\Lab3_test.pdb
+E:\Lab3_test\Lab3_test\bin\Debug\Lab3_test.exe.config
+E:\Lab3_test\Lab3_test\obj\Debug\Lab3_test.pdb
+E:\Lab3_test\Lab3_test\bin\Debug\Lab3_test.exe
+E:\Lab3_test\Lab3_test\bin\Debug\Lab3_test.pdb
+E:\Lab3_test\Lab3_test\obj\Debug\Lab3_test.csprojResolveAssemblyReference.cache
+E:\Lab3_test\Lab3_test\obj\Debug\Lab3_test.exe
+E:\Lab3_test\Lab3_test\obj\Debug\Lab3_test.Properties.Resources.resources
+E:\Lab3_test\Lab3_test\obj\Debug\Lab3_test.csproj.GenerateResource.Cache
