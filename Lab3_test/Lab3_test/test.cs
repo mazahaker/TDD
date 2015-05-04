@@ -62,5 +62,14 @@ namespace Lab3_test
             watch.Get_Min();
             Assert.IsTrue(watch.minutes == 2);
         }
+
+        [TestMethod]
+        public void Test_Add_Second()
+        {
+            Clock watch = new Clock();
+            watch.second = 1;
+            watch.Get_Sec();
+            Assert.IsTrue(watch.second == 2);
+        }
     }
 }
