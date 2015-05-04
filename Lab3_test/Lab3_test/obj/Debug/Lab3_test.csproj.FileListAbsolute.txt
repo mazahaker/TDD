@@ -12,3 +12,11 @@ E:\Lab3_test\Lab3_test\obj\Debug\Lab3_test.csprojResolveAssemblyReference.cache
 E:\Lab3_test\Lab3_test\obj\Debug\Lab3_test.exe
 E:\Lab3_test\Lab3_test\obj\Debug\Lab3_test.Properties.Resources.resources
 E:\Lab3_test\Lab3_test\obj\Debug\Lab3_test.csproj.GenerateResource.Cache
+D:\TDD_NEW - копия\Lab3_test\Lab3_test\bin\Debug\Lab3_test.exe.config
+D:\TDD_NEW - копия\Lab3_test\Lab3_test\obj\Debug\Lab3_test.exe
+D:\TDD_NEW - копия\Lab3_test\Lab3_test\obj\Debug\Lab3_test.pdb
+D:\TDD_NEW - копия\Lab3_test\Lab3_test\bin\Debug\Lab3_test.exe
+D:\TDD_NEW - копия\Lab3_test\Lab3_test\bin\Debug\Lab3_test.pdb
+D:\TDD_NEW - копия\Lab3_test\Lab3_test\obj\Debug\Lab3_test.Clock.resources
+D:\TDD_NEW - копия\Lab3_test\Lab3_test\obj\Debug\Lab3_test.Properties.Resources.resources
+D:\TDD_NEW - копия\Lab3_test\Lab3_test\obj\Debug\Lab3_test.csproj.GenerateResource.Cache
