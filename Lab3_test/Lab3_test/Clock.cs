@@ -45,22 +45,41 @@ namespace Lab3_test
             tik.Start();
         }
 
-        public void tmrShow_Tick(object sender, EventArgs e)
+        public void Get_Sec()
         {
-            Draw(Graphics.FromHwnd(Clock_panel.Handle));
             second++;
             if (second == 60)
             {
                 second = 0;
-                minutes++;
+                Get_Min();
             }
+        }
+
+        public void Get_Min()
+        {
+            minutes++;
             if (minutes == 60)
             {
                 minutes = 0;
-                hours++;
+                Get_Hours();
             }
+        }
+
+        public void Get_Hours()
+        {
+            hours++;
             if (hours == 24)
+            {
                 hours = 0;
+            }
+        }
+
+        public void tmrShow_Tick(object sender, EventArgs e)
+        {
+            Draw(Graphics.FromHwnd(Clock_panel.Handle));
+            
+            Get_Sec(); 
+
             label_clok.Text = hours + " : " + minutes + " : " + second; 
         }
 

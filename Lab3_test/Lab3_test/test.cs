@@ -53,5 +53,14 @@ namespace Lab3_test
             Clock watch = new Clock();
             Assert.IsTrue(watch.hours == DateTime.Now.Hour);
         }
+
+        [TestMethod]
+        public void Test_Add_Min()
+        {
+            Clock watch = new Clock();
+            watch.minutes = 1;
+            watch.Get_Min();
+            Assert.IsTrue(watch.minutes == 2);
+        }
     }
 }
